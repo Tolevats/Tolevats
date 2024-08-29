@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tolevats
 - 👀 I’m interested in design, storytelling & sports!
-- 🌱 I’m currently learning html, css and js at @Laboratoria
+- 🌱 I’m currently learning Node.js at @Laboratoria
 - 💞️ I’m looking to collaborate on anything really 👀
 - 📫 How to reach me: TBD
 - 😄 Pronouns: she/her
