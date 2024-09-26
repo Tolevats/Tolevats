@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Tolevats
 - 👀 I’m interested in design, storytelling & sports!
-- 🌱 I’m currently learning NodeJS at @Laboratoria and studying front-end with a TD scholarship. Full-stack profile here I come!
+- 🌱 I’m currently learning NodeJS at @Laboratoria and studying front-end with a TD scholarship. Full-stack profile, here I come!
 - 💞️ I’m looking to collaborate on anything really 👀
-- 📫 How to reach me: TBD
+- 📫 How to reach me: Linkedin
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I was a very convincing Lady M..th at high school 🎭
 
