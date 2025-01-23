@@ -2,9 +2,10 @@
 
 ## 👩‍💻 Web Developer | Aspiring Full-Stack Engineer | Storyteller at Heart  
 
-Welcome to my GitHub! I’m a recent graduate of **Laboratoria’s Web Development Bootcamp**, currently diving deep into **front-end development** with a clear goal: becoming a versatile **full-stack developer**. My journey into tech is fueled by a love for **design**, **problem-solving**, and **creative storytelling**, all combined with a passion for crafting intuitive user experiences.
+Welcome to my GitHub! I’m a recent graduate of **Laboratoria’s Web Development Bootcamp**, currently diving deep into **front-end and back-end development** with a clear goal: becoming a versatile **full-stack developer**. My journey into tech is fueled by a love for **design**, **problem-solving**, and **creative storytelling**, all combined with a passion for crafting intuitive user experiences.
 
 ---
+
 ## 💻 Tech Stack
 Here’s what I’m currently working with:  
 
