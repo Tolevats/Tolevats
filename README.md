@@ -77,9 +77,10 @@ Here’s what I’m currently working with:
 
 ---
 
-## 💼 Let’s Connect  
-- 🔗 **[LinkedIn](https://www.linkedin.com/in/pascalestavelot-dev/)**  
+## 💼 Let’s Connect
 <!--- - 🌐 **[Portfolio](#)** --->
+- 🔗 **[LinkedIn](https://www.linkedin.com/in/pascalestavelot-dev/)**  
+<!--- - 🦋 **[BlueSky](#)** --->
 - 📧 **[Email](mailto:pstavelot@gmail.com)**  
 
 ---
@@ -90,18 +91,13 @@ Let’s collaborate and build something great together! 🚀
 
 <!---
 Tolevats/Tolevats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@http://www.youtube.com/@tolevats)
 --->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tolevats&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tolevats&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tolevats&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tolevats&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
